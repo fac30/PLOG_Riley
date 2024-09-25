@@ -38,6 +38,15 @@ console.log('after');
     }
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+You created the progress log for this week.
+
 > [*Even better if*]
+
+The idea for the progress log is that you reflect on your progress and struggles, almost as bullet points, with code snippets or screenshots that support your ideas.
+Have a look at Marika's progress log, it is a great example
