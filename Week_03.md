@@ -71,6 +71,14 @@ installing all of the dependencies
 > my example would just be the project environment
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Much better than last week's. You covered more topics and struggles.
+
 > [*Even better if*]
+
+I would advice you yo have a peak to Jason's or Marika's, they are both great examples. Those will give you an idea about how deep you should go in your PLog
