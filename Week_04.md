@@ -42,6 +42,14 @@ export default ScoreDisplay; // Export the component for use in other parts of t
 --- <div className=" h-[210px] w-[200px] text-center float-right mr-[21px] relative bottom-[400px]">
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Project managing is a great skill to develop. It will be useful for any kind of project, even non software development projects.
+
 > [*Even better if*]
+
+You should include several concepts, explications for each and code snippets. Please check Marika's, Jason's or Max's. Those are good examples to follow
