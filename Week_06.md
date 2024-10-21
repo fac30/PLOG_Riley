@@ -73,6 +73,9 @@ CREATE TABLE IF NOT EXISTS order_item (
 ); 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]
+>
+> Alexander
+> 
+[*What went well*]  
+It is great that you added code snippets, but you also need to explain what you mean with those. 
