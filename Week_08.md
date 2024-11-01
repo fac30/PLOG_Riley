@@ -9,10 +9,10 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
 > **[Learning outcomes...]**
->learning about render
-> choosing render to deploy the backend on
-> learning about permanant disks
-> learning how to transfer data from SQLite to postgreSQL
+>learning about render.
+> choosing render to deploy the backend on.
+> learning about permanant disks.
+> learning how to transfer data from SQLite to postgreSQL.
 
 > [your evidence here]
 > export const createBuyer = async (username: string, email: string, hashedPassword: string): Promise<boolean> => {
@@ -36,8 +36,8 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
 > [**Learning outcome...**]
-> still learnimg the syntax behind postgreSQL
-> difference between the 2 data types
+> still learnimg the syntax behind postgreSQL.
+> difference between the 2 data types.
 
 > [your evidence here]
 
