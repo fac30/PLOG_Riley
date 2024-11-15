@@ -8,11 +8,21 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
+> **[Learning outcomes...]**
+
+> got better at writing routes in the backend that could possibly connect to the frontend
+> learning how to set up the backend
+> learning how to use minimal Api
 > [your evidence here]
 
+<img width="342" alt="Screenshot 2024-11-15 at 10 13 27" src="https://github.com/user-attachments/assets/e8e36003-5cfd-44bd-a40d-547ed808ba82">
+
+
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
+> [**Learning outcome...**]
+> learning c sharp
+> working with minimal Api
+> being more confident on backend stuff
 > [your evidence here]
 
 ## Feedback (For CF's)
