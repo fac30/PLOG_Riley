@@ -54,6 +54,14 @@ Step 10- anytime everything is pushed it goes to the master brunch and the pipel
 })
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Basic understanding of Cypress testing with some practical examples. Good high-level overview of CI/CD pipeline steps.
+
 > [*Even better if*]
+
+Show actual CI/CD workflow file instead of just listing steps. Your Cypress tests are basic - demonstrate more complex test scenarios with user interactions or data validation.
