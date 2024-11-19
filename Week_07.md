@@ -52,6 +52,14 @@ CREATE TABLE IF NOT EXISTS sessions (
 );
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good understanding of parameterized queries for database operations. Clean implementation of error handling in the createBuyer function.
+
 > [*Even better if*]
+
+Show the test code that goes with your createBuyer function since you mentioned scratch testing. The session table schema is shown but no implementation code demonstrating how you use it.
