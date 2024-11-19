@@ -49,6 +49,14 @@ const addProduct = (product: Omit<Product, 'id'>): Promise<number> => {
 };
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good adaptation from SQLite to PostgreSQL syntax, properly implementing parameterized queries with $n notation. Clear understanding of Promise-based database operations.
+
 > [*Even better if*]
+
+Show the actual database migration process you used to transfer from SQLite to PostgreSQL. Document specific syntax differences you struggled with between the two databases.
