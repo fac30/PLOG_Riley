@@ -8,12 +8,21 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
+> **[Learning outcomes...]**
+> learning how to write routes on the backend
+> learning how to use DTO
+> linking routes to our database
+> CRUD
 > [your evidence here]
+><img width="616" alt="Screenshot 2024-11-22 at 11 50 27" src="https://github.com/user-attachments/assets/41b0239e-defb-435b-a6e0-737e202217b3">
+
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
+> [**Learning outcome...**]
+> still need to go over syntax for .NET
+> work more on DTO
 > [your evidence here]
+<img width="576" alt="Screenshot 2024-11-22 at 11 51 35" src="https://github.com/user-attachments/assets/f0934360-864d-4e0a-ae83-f4aafffc0ce9">
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
