@@ -25,6 +25,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 <img width="576" alt="Screenshot 2024-11-22 at 11 51 35" src="https://github.com/user-attachments/assets/f0934360-864d-4e0a-ae83-f4aafffc0ce9">
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]
+
+Alexander
+
+[What went well]
+
+Good implementation of API routes in .NET with proper DTO pattern usage. Your RecipeDto class shows clear understanding of C# property syntax and type declarations.
+
+[Even better if]
+
+Add error handling to your MapPost route since you're dealing with database operations. Also, document what specific .NET syntax points you want to revisit since you mentioned needing to work more on it.
